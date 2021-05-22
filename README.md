@@ -3,7 +3,7 @@
 
 [logo]: https://github.com/rivienne8/rivienne8/blob/main/logoMe2.jpg "Logo"
 
-After years of advising companies  on leasing issues the time has come to take care of more technical side of me. Since May 2020
+After years of advising companies  on leasing issues the time has come to take care of the more technical side of me. Since May 2020
 I have been studying on Full Stack Developer Course by Codecool.pl. And I must admit  I&nbsp;&nbsp;    r&nbsp;e&nbsp;a&nbsp;l&nbsp;l&nbsp;y  &nbsp;&nbsp; enjoy that.
 
 
